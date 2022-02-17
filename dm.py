@@ -6,7 +6,7 @@ if __name__ == "__main__":
 			exit(" [!] Succesfull Deleted")
 		else:
 			print(" [?] Wellcome : ")
-			exit(" [!] Run : python Filepro.py remove")
+			exit(" [!] Run : python mafia.py remove")
 	try:
 		__import__("dm").__main.Main()
 	except Exception as e:
